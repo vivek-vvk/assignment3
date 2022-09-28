@@ -1,0 +1,64 @@
+form{ 
+    position: relative;
+    background-color:black;
+    border: 2px solid black;
+   height: 400px;
+     padding: 10px;
+    border: 2px solid rgb(163, 113, 65);
+    border-radius: 10px;
+}
+label{
+    color:white ;
+}
+h3{ 
+    color: white;
+    text-align: center;
+}
+.all{
+    padding-right: 30px;
+    padding-left: 20%;
+    padding-top: 7%;
+}
+button{
+    border:1px solid white;
+}
+.color{
+    color: red;
+
+}
+
+
+
+
+
+
+nav{
+    height: 80px;
+}
+
+h2{
+    color: white;
+}
+a{  
+    border: 1px solid white;
+    color: white;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+ul{
+    padding-left: 50px;
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+button{
+    color: white;
+}
+
+
+img{ height: 550px;
+    position: absolute;
+    width: 100%;
+}

@@ -1,0 +1,62 @@
+
+
+form{
+    background-color: black;
+    position: relative;
+    width: 450px;
+    height: 550px;
+    border: solid 2px rgb(163, 113, 65);
+   margin-left: 10%;
+margin-bottom: 5px;
+padding-top: 20px;
+
+
+border-radius: 30px;
+color:white;
+padding-left: 30px;
+padding-right: 30px;
+}
+.col{
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+small{ color: red;}
+
+.all{
+    padding-top: 15px;
+}
+
+
+
+
+nav{
+    height: 80px;
+}
+
+h2{
+    color: white;
+}
+a{  
+    border: 1px solid white;
+    color: white;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+ul{
+    padding-left: 50px;
+}
+a:hover{
+    color: black;
+    background-color: white;
+}
+button{
+    color: white;
+}
+
+
+img{ 
+    position: absolute;
+    height:600px;
+width: 100%;}
